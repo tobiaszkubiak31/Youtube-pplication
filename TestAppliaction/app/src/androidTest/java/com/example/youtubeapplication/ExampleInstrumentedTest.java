@@ -1,4 +1,4 @@
-package com.example.testappliaction;
+package com.example.youtubeapplication;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.example.testappliaction", appContext.getPackageName());
+        assertEquals("com.example.youtubeapplication", appContext.getPackageName());
     }
 }
